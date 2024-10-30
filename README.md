@@ -126,10 +126,10 @@
 
 <h3>11. Stats Card 2 </h3> 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="nishant4500" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="IU-Studies" />
  
 ```bash
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="nishant4500" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="IU-Studies" />
 ```
 
 <br>
@@ -138,10 +138,49 @@
 
 <h3>12. GitHub Trophies </h3> 
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IU-Studies" alt="IU-Studies" /></a> </p>
+ <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
  
 ```bash
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IU-Studies" alt="IU-Studies" /></a> </p>
+   <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
+```
+
+<br>
+
+---
+
+<h3>13. Contribution Graph 3 </h3> 
+
+ <div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+        <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+    </picture>
+</div>
+ 
+```bash
+   <div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+        <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+    </picture>
+</div>
+```
+
+<br>
+
+---
+
+
+<h3>14. Stats Card 3 </h3> 
+
+ <a href="https://github.com/IU-Studies">
+ <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
+ 
+```bash
+   <a href="https://github.com/IU-Studies">
+   <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
 ```
 
 <br>
