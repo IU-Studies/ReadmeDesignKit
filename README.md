@@ -86,3 +86,29 @@
 <br>
 
 ---
+
+
+<h3>8. Streak Stats </h3> 
+
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
+ 
+```bash
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
+```
+
+<br>
+
+---
+
+<h3>9. Top Contributed Repo </h3> 
+
+ ![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+ 
+```bash
+   ![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+```
+
+<br>
+
+---
+
