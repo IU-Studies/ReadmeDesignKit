@@ -124,15 +124,26 @@
 
 ---
 
-<h3>11. Dev Card </h3> 
+<h3>11. Stats Card 2 </h3> 
 
- <a href="https://app.daily.dev/democontributer"><img src="https://api.daily.dev/devcards/v2/Zdd8TqU7u8xDRoCMPfTKp.png?type=wide&r=q9y" width="652" alt="Demo-Contributer's Dev Card"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="nishant4500" />
  
 ```bash
-   <a href="https://app.daily.dev/democontributer"><img src="https://api.daily.dev/devcards/v2/Zdd8TqU7u8xDRoCMPfTKp.png?type=wide&r=q9y" width="652" alt="Demo-Contributer's Dev Card"/></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=github_dark" alt="nishant4500" />
 ```
 
 <br>
 
 ---
 
+<h3>12. GitHub Trophies </h3> 
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IU-Studies" alt="IU-Studies" /></a> </p>
+ 
+```bash
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IU-Studies" alt="IU-Studies" /></a> </p>
+```
+
+<br>
+
+---
