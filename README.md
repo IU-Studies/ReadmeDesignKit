@@ -282,12 +282,12 @@
 ---
 
 
-<h3>Leetcode Stats 1 </h3> 
+<h3>Leetcode Stats 3 </h3> 
 
- <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark)
  
 ```bash
-   <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+   ![Leetcode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark)
 ```
 
 <br>
