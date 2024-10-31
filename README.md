@@ -256,3 +256,41 @@
 <br>
 
 ---
+
+<h3>Leetcode Stats 1 </h3> 
+
+ <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+ 
+```bash
+   <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+```
+
+<br>
+
+---
+
+<h3>Leetcode Stats 2 </h3> 
+
+ <img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+ 
+```bash
+   <img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+```
+
+<br>
+
+---
+
+
+<h3>Leetcode Stats 1 </h3> 
+
+ <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+ 
+```bash
+   <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+```
+
+<br>
+
+---
+
