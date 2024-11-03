@@ -306,7 +306,7 @@
 
 ---
 
-<h3>GFG Stats </h3> 
+<h3>Codeforces Stats </h3> 
 
  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
  
