@@ -118,6 +118,33 @@
 
 ---
 
+<h3>Stats Card 5 </h3> 
+
+![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
+
+ 
+```bash
+   ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
+```
+
+<br>
+
+---
+
+<h3>Stats Card 6 </h3> 
+
+![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
+
+ 
+```bash
+   ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
+```
+
+<br>
+
+---
+
+
 <h3>Most Used Language Card 1 </h3> 
 
 ![MULC1](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5)
