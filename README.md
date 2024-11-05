@@ -345,3 +345,14 @@
 
 ---
 
+<h3>Profile Views Counter 1 </h3> 
+
+ ![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
+ 
+```bash
+   ![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
+```
+
+<br>
+
+---
