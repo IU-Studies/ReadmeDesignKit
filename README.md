@@ -371,15 +371,11 @@
 
 <h3>Profile Views Counter 3 </h3> 
 
- <a href="https://github.com/IU-Studies">
-    <img alt="Cute count" src="http://moe-count.glitch.me/get/@IU-Studies?theme=rule34"/>
- </a>
+ <img src="https://moe-count.glitch.me/get/@IU-Studies?theme=asoul" alt=":IU-Studies" />
 
  
 ```bash
-    <a href="https://github.com/IU-Studies">
-        <img alt="Cute count" src="http://moe-count.glitch.me/get/@IU-Studies?theme=rule34"/>
-    </a>
+    <img src="https://moe-count.glitch.me/get/@IU-Studies?theme=asoul" alt=":IU-Studies" />
 ```
 
 <br>
