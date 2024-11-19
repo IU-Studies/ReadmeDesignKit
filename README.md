@@ -407,3 +407,17 @@
 
 ---
 
+
+<h3>Quotes 1</h3> 
+
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
+
+ 
+```bash
+    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
+```
+
+<br>
+
+---
+
