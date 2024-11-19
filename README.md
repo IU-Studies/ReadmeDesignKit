@@ -434,3 +434,17 @@
 
 ---
 
+
+<h3>Jokes</h3> 
+
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+ 
+```bash
+    ![Jokes Card](https://readme-jokes.vercel.app/api)
+```
+
+<br>
+
+---
+
