@@ -421,3 +421,16 @@
 
 ---
 
+<h3>Quotes 2</h3> 
+
+ <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+ 
+```bash
+    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+```
+
+<br>
+
+---
+
