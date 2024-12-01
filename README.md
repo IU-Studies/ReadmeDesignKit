@@ -491,3 +491,17 @@
 <br>
 
 ---
+
+
+<h3>RGB Line Thick</h3> 
+
+ <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+
+ 
+```bash
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+```
+
+<br>
+
+---
