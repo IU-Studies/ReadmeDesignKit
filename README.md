@@ -505,3 +505,17 @@
 <br>
 
 ---
+
+
+<h3>Blue Line</h3> 
+
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" /> 
+
+ 
+```bash
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
+```
+
+<br>
+
+---
