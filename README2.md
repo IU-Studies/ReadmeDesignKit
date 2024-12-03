@@ -1,8 +1,18 @@
-<h3>Hand Waving</h3> 
+<h3>Firm Hand Waving</h3> 
 <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
  
 ```bash
     <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
+```
+<br>
+
+---
+
+<h3>Hand Waving</h3> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="75">
+ 
+```bash
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="75">
 ```
 <br>
 
