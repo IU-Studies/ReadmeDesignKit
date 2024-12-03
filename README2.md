@@ -1,3 +1,13 @@
+<h3>Confused Face</h3>
+<img src="https://github.com/user-attachments/assets/1ed26ded-2091-4526-a763-b60c2e4a14ad" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/1ed26ded-2091-4526-a763-b60c2e4a14ad" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Brain</h3>
 <img src="https://github.com/user-attachments/assets/e198c9b6-3a92-4e6c-a9ae-663e179fe8c2" width="75px" height="75">
 
