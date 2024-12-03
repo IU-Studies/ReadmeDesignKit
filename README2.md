@@ -1,18 +1,18 @@
 <h3>Hand Waving</h3> 
-<img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="25px" height="25">
+<img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
  
 ```bash
-    <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="25px" height="25">
+    <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
 ```
 <br>
 
 ---
 
 <h3>Writing</h3> 
-<img src = "https://github.com/user-attachments/assets/b43df2ed-600b-4f9c-9411-f5e57b8e895f" width="25px" height="25">
+<img src = "https://github.com/user-attachments/assets/b43df2ed-600b-4f9c-9411-f5e57b8e895f" width="75px" height="75">
  
 ```bash
-    <img src = "https://github.com/user-attachments/assets/b43df2ed-600b-4f9c-9411-f5e57b8e895f" width="25px" height="25">
+    <img src = "https://github.com/user-attachments/assets/b43df2ed-600b-4f9c-9411-f5e57b8e895f" width="75px" height="75">
 ```
 <br>
 
@@ -38,15 +38,6 @@
 
 ---
 
-<h3>Brain</h3>
-<img src="https://github.com/user-attachments/assets/e198c9b6-3a92-4e6c-a9ae-663e179fe8c2" width="75px" height="75">
-
-```bash
-    <img src="https://github.com/user-attachments/assets/e198c9b6-3a92-4e6c-a9ae-663e179fe8c2" width="75px" height="75">
-```
-<br>
-
----
 
 <h3>Thinking Face</h3>
 <img src="https://github.com/user-attachments/assets/c8a3822b-e969-4091-b79a-ac68c0270dc5" width="75px" height="75">
