@@ -1,3 +1,23 @@
+<h3>Alien Monster</h3>
+<img src="https://github.com/user-attachments/assets/d6d3adf9-0f29-49ec-b45e-a9ed268e049c" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/d6d3adf9-0f29-49ec-b45e-a9ed268e049c" width="75px" height="75">
+```
+<br>
+
+---
+
+<h3>Brain</h3>
+<img src="https://github.com/user-attachments/assets/4b29a043-72b1-4e80-817a-6c39166329f1" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/4b29a043-72b1-4e80-817a-6c39166329f1" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Comet</h3>
 <img src="https://github.com/user-attachments/assets/0641226c-ea51-485e-bf7f-a52a83916199" width="75px" height="75">
 
