@@ -575,7 +575,7 @@
 
 ---
 
-<h3>Poping Heart</h3> 
+<h3>Popping Heart</h3> 
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" />
 
