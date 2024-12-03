@@ -1,3 +1,13 @@
+<h3>Firm Handshake</h3>
+<img src="https://github.com/user-attachments/assets/e2b2a054-19f0-45c4-9538-775892c471f4" width="75px" height="75">
+
+```bash
+<img src="https://github.com/user-attachments/assets/e2b2a054-19f0-45c4-9538-775892c471f4" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Eyes</h3>
 <img src="https://github.com/user-attachments/assets/4d9cdc7c-9073-458b-9b9e-e057d41d4284" width="75px" height="75">
 
