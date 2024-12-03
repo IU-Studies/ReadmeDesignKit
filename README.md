@@ -284,6 +284,17 @@
 
 ---
 
+<h3>Repo Details</h3> 
+
+ ![Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=IU-Studies\&repo=ReadmeDesignKit\&theme=jolly)
+ 
+```bash
+   ![Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=IU-Studies\&repo=ReadmeDesignKit\&theme=jolly)
+```
+
+<br>
+
+---
 
 <h3>GitHub Trophies </h3> 
 
