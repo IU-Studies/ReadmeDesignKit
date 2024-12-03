@@ -77,3 +77,13 @@
 <br>
 
 ---
+
+<h3>Spiral</h3>
+<img src="https://github.com/user-attachments/assets/c44a7f86-6b39-4e59-a814-ca9ce573ff80" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/c44a7f86-6b39-4e59-a814-ca9ce573ff80" width="75px" height="75">
+```
+<br>
+
+---
