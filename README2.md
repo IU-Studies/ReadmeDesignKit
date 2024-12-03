@@ -1,3 +1,13 @@
+<h3>Brain</h3>
+<img src="https://github.com/user-attachments/assets/e198c9b6-3a92-4e6c-a9ae-663e179fe8c2" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/e198c9b6-3a92-4e6c-a9ae-663e179fe8c2" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Thinking Face</h3>
 <img src="https://github.com/user-attachments/assets/c8a3822b-e969-4091-b79a-ac68c0270dc5" width="75px" height="75">
 
