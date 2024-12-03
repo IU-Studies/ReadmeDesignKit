@@ -1,3 +1,13 @@
+<h3>Thinking Face</h3>
+<img src="https://github.com/user-attachments/assets/c8a3822b-e969-4091-b79a-ac68c0270dc5" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/c8a3822b-e969-4091-b79a-ac68c0270dc5" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Nerd Face</h3>
 <img src="https://github.com/user-attachments/assets/91e16efd-7017-4307-8e21-600165b546b8" width="75px" height="75">
 
