@@ -560,3 +560,17 @@
 <br>
 
 ---
+
+
+<h3>Handshake Emoji</h3> 
+
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35">
+
+ 
+```bash
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35">
+```
+
+<br>
+
+---
