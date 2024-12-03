@@ -1,3 +1,13 @@
+<h3>Eyes</h3>
+<img src="https://github.com/user-attachments/assets/4d9cdc7c-9073-458b-9b9e-e057d41d4284" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/4d9cdc7c-9073-458b-9b9e-e057d41d4284" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Alien Monster</h3>
 <img src="https://github.com/user-attachments/assets/d6d3adf9-0f29-49ec-b45e-a9ed268e049c" width="75px" height="75">
 
