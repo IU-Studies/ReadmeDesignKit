@@ -1,3 +1,13 @@
+<h3>Flexed Biceps</h3>
+<img src="https://github.com/user-attachments/assets/26fde631-ab34-47c7-9c16-24be278ca869" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/26fde631-ab34-47c7-9c16-24be278ca869" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Confused Face</h3>
 <img src="https://github.com/user-attachments/assets/1ed26ded-2091-4526-a763-b60c2e4a14ad" width="75px" height="75">
 
