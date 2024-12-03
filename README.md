@@ -562,31 +562,7 @@
 ---
 
 
-<h3>Handshake Emoji</h3> 
 
- <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35">
-
- 
-```bash
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35">
-```
-
-<br>
-
----
-
-<h3>Popping Heart</h3> 
-
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" />
-
- 
-```bash
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" />
-```
-
-<br>
-
----
 
 <h3>Gmail Thug</h3> 
 
@@ -600,3 +576,5 @@
 <br>
 
 ---
+
+
