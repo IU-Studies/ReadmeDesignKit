@@ -27,3 +27,13 @@
 <br>
 
 ---
+
+<h3>Musical Notes</h3>
+<img src="https://github.com/user-attachments/assets/ce4bb0d9-7fa8-4265-8617-3558e2051c61" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/ce4bb0d9-7fa8-4265-8617-3558e2051c61" width="75px" height="75">
+```
+<br>
+
+---
