@@ -1,3 +1,13 @@
+<h3>Comet</h3>
+<img src="https://github.com/user-attachments/assets/0641226c-ea51-485e-bf7f-a52a83916199" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/0641226c-ea51-485e-bf7f-a52a83916199" width="75px" height="75">
+```
+<br>
+
+---
+
 <h3>Gmail Thug</h3> 
 <img src="https://media4.giphy.com/media/aOften89vRbG/giphy.webp?cid=790b7611b8u15z3v5x6n9xu5yjax6f1v59zaz05qtt68w3xw&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="75px" height="75">
 
