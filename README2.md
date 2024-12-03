@@ -37,3 +37,13 @@
 <br>
 
 ---
+
+<h3>Bug</h3>
+<img src="https://github.com/user-attachments/assets/2cfaadc8-a778-42d4-9aaf-d04f4ae32ef3" width="75px" height="75">
+
+```bash
+    <img src="https://github.com/user-attachments/assets/2cfaadc8-a778-42d4-9aaf-d04f4ae32ef3" width="75px" height="75">
+```
+<br>
+
+---
