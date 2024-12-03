@@ -79,6 +79,16 @@
 
 ---
 
+<h3>Professional Handshake</h3>
+<img src="https://github.com/user-attachments/assets/d9fe3314-4706-4f60-9fd7-b7bb823a09a0" width="75" height="75"/>
+
+```bash
+    <img src="https://github.com/user-attachments/assets/d9fe3314-4706-4f60-9fd7-b7bb823a09a0" width="75" height="75"/>
+```
+<br>
+
+---
+
 <h3>Eyes</h3>
 <img src="https://github.com/user-attachments/assets/4d9cdc7c-9073-458b-9b9e-e057d41d4284" width="75px" height="75">
 
@@ -258,6 +268,10 @@
 <br>
 
 ---
+
+
+
+
 
 
 
