@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/91e16efd-7017-4307-8e21-600165b546b8" width="75px" height="75">
 
 ```bash
-<img src="https://github.com/user-attachments/assets/91e16efd-7017-4307-8e21-600165b546b8" width="75px" height="75">
+    <img src="https://github.com/user-attachments/assets/91e16efd-7017-4307-8e21-600165b546b8" width="75px" height="75">
 ```
 <br>
 
@@ -12,7 +12,7 @@
 <img src="https://github.com/user-attachments/assets/cafba54a-ce3b-4151-9275-42e968382621" width="75px" height="75">
 
 ```bash
-<img src="https://github.com/user-attachments/assets/cafba54a-ce3b-4151-9275-42e968382621" width="75px" height="75">
+    <img src="https://github.com/user-attachments/assets/cafba54a-ce3b-4151-9275-42e968382621" width="75px" height="75">
 ```
 <br>
 
@@ -22,7 +22,7 @@
 <img src="https://github.com/user-attachments/assets/e2b2a054-19f0-45c4-9538-775892c471f4" width="75px" height="75">
 
 ```bash
-<img src="https://github.com/user-attachments/assets/e2b2a054-19f0-45c4-9538-775892c471f4" width="75px" height="75">
+    <img src="https://github.com/user-attachments/assets/e2b2a054-19f0-45c4-9538-775892c471f4" width="75px" height="75">
 ```
 <br>
 
