@@ -1,4 +1,3 @@
-
 <h3>Hand Waving</h3> 
 <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
  
@@ -241,10 +240,10 @@
 ---
 
 <h3>Kyubey</h3>
-<img src="https://github.com/user-attachments/assets/64a3a562-2105-47f7-906f-4301a183a118" width="75" height="75">
+<img src="https://github.com/user-attachments/assets/64a3a562-2105-47f7-906f-4301a183a118" width="75">
 
 ```bash
-    <img src="https://github.com/user-attachments/assets/64a3a562-2105-47f7-906f-4301a183a118" width="75" height="75">
+    <img src="https://github.com/user-attachments/assets/64a3a562-2105-47f7-906f-4301a183a118" width="75">
 ```
 <br>
 
