@@ -6,15 +6,12 @@
 ```bash
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false">
 ```
-
 <br>
 
 ---
 
 <h3>Contribution Graph 2 </h3> 
-
- <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
-
+<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
 
 ```bash
   <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
