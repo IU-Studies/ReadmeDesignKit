@@ -1,8 +1,7 @@
 <h1 align="center"> ReadmeDesignKit </h1>
 
 <h3>Contribution Graph 1 </h3> 
-
-![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false)
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false" >
 
 ```bash
   ![IU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false)
