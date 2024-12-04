@@ -77,19 +77,10 @@
 ---
 
 <h3>Stats Card 3 </h3> 
-
- <p>
-  <a href="https://github.com/IU-Studies">
-     <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies"alt ="Stats"/>
-  </a>
-</p>
+<img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies" alt ="Stats"/>
  
 ```bash
-   <p>
-     <a href="https://github.com/IU-Studies">
-     <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies"alt ="Stats"/>
-     </a>
-   </p>
+   <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies" alt ="Stats"/>
 ```
 
 <br>
