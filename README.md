@@ -52,26 +52,32 @@
 
 ---
 
-<h3>Stats Card 1 </h3> 
+<h3>Contribution Graph 5 </h3> 
+<img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
 
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
+```bash
+  <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
+```
+<br>
+
+---
+
+<h3>Stats Card 1 </h3> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
 
 ```bash
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
 ```
-
 <br>
 
 ---
 
 <h3>Stats Card 2 </h3> 
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
  
 ```bash
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
 ```
-
 <br>
 
 ---
