@@ -94,14 +94,11 @@
 ---
 
 <h3>Stats Card 4 </h3> 
-
-![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
-
+<img  src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
  
 ```bash
    ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
 ```
-
 <br>
 
 ---
