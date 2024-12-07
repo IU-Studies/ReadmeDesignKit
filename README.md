@@ -1,10 +1,11 @@
+
 <h1 align="center"> ReadmeDesignKit </h1>
 
 <h3>Contribution Graph 1 </h3> 
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false">
 
 ```bash
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false">
+<img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false">
 ```
 <br>
 
@@ -14,7 +15,7 @@
 <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
 
 ```bash
-  <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
+<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IU-Studies&theme=radical"/>
 ```
 <br>
 
@@ -24,29 +25,29 @@
 <img src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
  
 ```bash
-   <img src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
+<img src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true">
 ```
 <br>
 
 ---
 
 <h3>Contribution Graph 4 </h3> 
- <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-        <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
-    </picture>
+<div>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+<source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+<img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+</picture>
 </div>
  
 ```bash
-   <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-        <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
-    </picture>
-   </div>
+<div>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
+<source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
+<img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink">
+</picture>
+</div>
 ```
 <br>
 
@@ -56,7 +57,7 @@
 <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
 
 ```bash
-  <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
+<img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/IU-Studies?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
 ```
 <br>
 
@@ -66,7 +67,7 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
 
 ```bash
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IU-Studies&theme=2077"/>
 ```
 <br>
 
@@ -76,7 +77,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
  
 ```bash
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show_icons=true&locale=en&theme=tokyonight" alt="IU-Studies" />
 ```
 <br>
 
@@ -86,7 +87,7 @@
 <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies" alt ="Stats"/>
  
 ```bash
-   <img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies" alt ="Stats"/>
+<img  src="https://github-stats-alpha.vercel.app/api/?username=IU-Studies" alt ="Stats"/>
 ```
 
 <br>
@@ -94,22 +95,21 @@
 ---
 
 <h3>Stats Card 4 </h3> 
-<img  src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
  
 ```bash
-   ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
 ```
 <br>
 
 ---
 
 <h3>Stats Card 5 </h3> 
-
+   
 ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
 
- 
 ```bash
-   ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
+![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
 ```
 
 <br>
