@@ -130,14 +130,11 @@
 ---
 
 <h3>Stats Bar Card </h3> 
-
 <img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-
  
 ```bash
    <img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 ```
-
 <br>
 
 ---
