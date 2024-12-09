@@ -124,7 +124,6 @@
 ```bash
    ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
 ```
-
 <br>
 
 ---
@@ -148,7 +147,6 @@
 ```bash
    ![MULC1](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5)
 ```
-
 <br>
 
 ---
