@@ -109,7 +109,6 @@
 ```bash
 ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
 ```
-
 <br>
 
 ---
