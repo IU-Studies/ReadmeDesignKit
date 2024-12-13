@@ -542,7 +542,6 @@
 ```bash
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 ```
-
 <br>
 
 ---
@@ -555,7 +554,6 @@
 ```bash
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 ```
-
 <br>
 
 ---
