@@ -535,10 +535,8 @@
 ---
 
 <h3>Wave 1</h3> 
-
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/> 
 
- 
 ```bash
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 ```
@@ -547,10 +545,8 @@
 ---
 
 <h3>Wave 2</h3> 
-
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> 
 
- 
 ```bash
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 ```
