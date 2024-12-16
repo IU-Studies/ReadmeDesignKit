@@ -114,12 +114,10 @@
 ---
 
 <h3>Stats Card 6 </h3> 
-
 ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
 
- 
 ```bash
-   ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
+![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
 ```
 <br>
 
