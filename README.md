@@ -114,6 +114,7 @@
 ---
 
 <h3>Stats Card 6 </h3> 
+
 ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
 
 ```bash
@@ -127,7 +128,7 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
  
 ```bash
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 ```
 <br>
 
@@ -138,9 +139,8 @@
 
 ![MULC1](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5)
 
- 
 ```bash
-   ![MULC1](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5)
+![MULC1](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5)
 ```
 <br>
 
