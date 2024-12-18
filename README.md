@@ -103,7 +103,7 @@
 ---
 
 <h3>Stats Card 5 </h3> 
-   
+
 ![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
 
 ```bash
@@ -152,7 +152,7 @@
 
  
 ```bash
-   ![MULC2](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact)
+![MULC2](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact)
 ```
 
 <br>
@@ -165,7 +165,7 @@
 
  
 ```bash
-   ![MULC3](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark)
+![MULC3](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark)
 ```
 
 <br>
@@ -178,7 +178,7 @@
 
  
 ```bash
-   ![MULC4](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko)
+![MULC4](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko)
 ```
 
 <br>
@@ -191,7 +191,7 @@
 
  
 ```bash
-   ![MULC5](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true)
+![MULC5](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true)
 ```
 
 <br>
@@ -203,7 +203,7 @@
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
 
 ```bash
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
 ```
 
 <br>
@@ -215,7 +215,7 @@
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
 
 ```bash
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
 ```
 
 <br>
@@ -227,7 +227,7 @@
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
 
 ```bash
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
 ```
 
 <br>
@@ -240,7 +240,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
  
 ```bash
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
 ```
 
 <br>
@@ -252,7 +252,7 @@
  ![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
  
 ```bash
-   ![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
 ```
 
 <br>
@@ -264,7 +264,7 @@
  ![Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=IU-Studies\&repo=ReadmeDesignKit\&theme=jolly)
  
 ```bash
-   ![Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=IU-Studies\&repo=ReadmeDesignKit\&theme=jolly)
+![Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=IU-Studies\&repo=ReadmeDesignKit\&theme=jolly)
 ```
 
 <br>
@@ -276,7 +276,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
  
 ```bash
-   <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
+<img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
 ```
 
 <br>
@@ -288,7 +288,7 @@
  <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
  
 ```bash
-   <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+<img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
 ```
 
 <br>
@@ -300,7 +300,7 @@
  <img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
  
 ```bash
-   <img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+<img alt="My Leetcode Stats" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
 ```
 
 <br>
@@ -313,7 +313,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark)
  
 ```bash
-   ![Leetcode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark)
 ```
 
 <br>
@@ -325,7 +325,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
  
 ```bash
-   ![LeetCode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
 ```
 
 <br>
@@ -337,7 +337,7 @@
  ![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
  
 ```bash
-   ![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
+![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
 ```
 
 <br>
@@ -349,7 +349,7 @@
  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
  
 ```bash
-   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
 ```
 
 <br>
@@ -361,7 +361,7 @@
  ![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
  
 ```bash
-   ![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
+![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
 ```
 
 <br>
@@ -373,7 +373,7 @@
  <img src="https://profile-counter.glitch.me/%7BIU-Studies10%7D/count.svg" alt="visitor badge"/>
  
 ```bash
-   <img src="https://profile-counter.glitch.me/%7BIU-Studies10%7D/count.svg" alt="visitor badge"/>
+<img src="https://profile-counter.glitch.me/%7BIU-Studies10%7D/count.svg" alt="visitor badge"/>
 ```
 
 <br>
@@ -386,7 +386,7 @@
 
  
 ```bash
-    <img src="https://moe-count.glitch.me/get/@IU-Studies?theme=asoul" alt=":IU-Studies" />
+ <img src="https://moe-count.glitch.me/get/@IU-Studies?theme=asoul" alt=":IU-Studies" />
 ```
 
 <br>
@@ -400,7 +400,7 @@
 
  
 ```bash
-    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
 ```
 
 <br>
@@ -413,7 +413,7 @@
 
  
 ```bash
-    <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 ```
 
 <br>
@@ -428,7 +428,7 @@
 
  
 ```bash
-    ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
+ ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
 ```
 
 <br>
@@ -442,7 +442,7 @@
 
  
 ```bash
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+ <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
 ```
 
 <br>
@@ -456,7 +456,7 @@
 
  
 ```bash
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+ <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
 ```
 
 <br>
@@ -470,7 +470,7 @@
 
  
 ```bash
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 ```
 
 <br>
@@ -484,7 +484,7 @@
 
  
 ```bash
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 ```
 
 <br>
@@ -497,7 +497,7 @@
 
  
 ```bash
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
+ <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" />
 ```
 
 <br>
@@ -511,7 +511,7 @@
 
  
 ```bash
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px" />
 ```
 
 <br>
