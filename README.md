@@ -199,8 +199,7 @@
 ---
 
 <h3>Top Language By Repo </h3> 
-
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
 
 ```bash
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IU-Studies&theme=transparent"  />
