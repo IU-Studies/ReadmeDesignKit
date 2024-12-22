@@ -150,7 +150,6 @@
 
 ![MULC2](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact)
 
- 
 ```bash
 ![MULC2](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact)
 ```
@@ -174,7 +173,6 @@
 
 ![MULC4](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko)
 
- 
 ```bash
 ![MULC4](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko)
 ```
@@ -186,7 +184,6 @@
 
 ![MULC5](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true)
 
- 
 ```bash
 ![MULC5](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true)
 ```
