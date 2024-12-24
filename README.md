@@ -136,7 +136,6 @@
 
 
 <h3>Most Used Language Card 1 </h3> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&langs_count=5"/>
 
 ```bash
@@ -150,40 +149,37 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact"/>
 
 ```bash
-![MULC2](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact"/>
 ```
 <br>
 
 ---
 
 <h3>Most Used Language Card 3 </h3> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark"/>
 
 ```bash
-![MULC3](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark"/>
 ```
 <br>
 
 ---
 
 <h3>Most Used Language Card 4 </h3> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko"/>
 
 ```bash
-![MULC4](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=pie&theme=merko"/>
 ```
 <br>
 
 ---
 
 <h3>Most Used Language Card 5 </h3> 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true"/>
 
 ```bash
-![MULC5](https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&hide_progress=true"/>
 ```
 <br>
 
