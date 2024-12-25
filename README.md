@@ -103,22 +103,20 @@
 ---
 
 <h3>Stats Card 5 </h3> 
-
-![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&rank_icon=github&theme=highcontrast">
 
 ```bash
-![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=github&theme=highcontrast)
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&rank_icon=github&theme=highcontrast">
 ```
 <br>
 
 ---
 
 <h3>Stats Card 6 </h3> 
-
-![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&rank_icon=percentile&theme=vision-friendly-dark">
 
 ```bash
-![IU-Studies's GitHub stats](https://github-readme-stats.vercel.app/api?username=IU-Studies\&rank_icon=percentile&theme=vision-friendly-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=IU-Studies&rank_icon=percentile&theme=vision-friendly-dark">
 ```
 <br>
 
@@ -196,8 +194,7 @@
 ---
 
 <h3>Most Commit Language </h3> 
-
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
 
 ```bash
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IU-Studies&theme=transparent"  />
@@ -208,8 +205,7 @@
 ---
 
 <h3>Productive Time </h3> 
-
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
 
 ```bash
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IU-Studies&theme=transparent" />
