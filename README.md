@@ -133,6 +133,7 @@
 
 ---
 
+
 <h3>Stats Bar Card </h3> 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=IU-Studies&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
  
@@ -154,6 +155,7 @@
 
 ---
 
+
 <h3>Most Used Language Card 2 </h3> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=compact"/>
 
@@ -163,6 +165,7 @@
 <br>
 
 ---
+
 
 <h3>Most Used Language Card 3 </h3> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IU-Studies&layout=donut-vertical&theme=dark"/>
