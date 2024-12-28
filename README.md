@@ -231,8 +231,7 @@
 
 
 <h3>Streak Stats </h3> 
-
- <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
  
 ```bash
 <img src="https://github-readme-streak-stats.herokuapp.com?user=IU-Studies&theme=transparent&hide_border=true&" align="center" />
