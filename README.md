@@ -352,6 +352,32 @@
 
 ---
 
+
+<h3>Clash of Clans Stats - Dark</h3> 
+<a href="https://clashspot.net/en/player/YCY9V8GJU/view/home-village"><img src="https://clashspot.net/player/YCY9V8GJU/signature?theme=dark&lng=en" /></a>
+ 
+```bash
+<a href="https://clashspot.net/en/player/YCY9V8GJU/view/home-village"><img src="https://clashspot.net/player/YCY9V8GJU/signature?theme=dark&lng=en" /></a>
+```
+
+<br>
+
+---
+
+
+<h3>Clash of Clans Stats - Light</h3> 
+<a href="https://clashspot.net/en/player/YCY9V8GJU/view/home-village"><img src="https://clashspot.net/player/YCY9V8GJU/signature?theme=light&lng=en" /></a>
+ 
+```bash
+<a href="https://clashspot.net/en/player/YCY9V8GJU/view/home-village"><img src="https://clashspot.net/player/YCY9V8GJU/signature?theme=light&lng=en" /></a>
+```
+
+<br>
+
+---
+
+
+
 <h3>Profile Views Counter 1 </h3> 
 
  ![Profile Views Counter](https://visitcount.itsvg.in/api?id=IU-Studies&icon=0&color=0)
