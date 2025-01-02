@@ -2,7 +2,7 @@
 <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
  
 ```bash
-    <img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
+<img src = "https://github.com/user-attachments/assets/9b732be2-e395-4605-a37f-788f7458219b" width="75px" height="75">
 ```
 <br>
 
