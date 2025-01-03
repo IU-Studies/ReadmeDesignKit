@@ -280,13 +280,11 @@
 ---
 
 <h3>Leetcode Stats 1 </h3> 
-
- <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
+<img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
  
 ```bash
 <img src="https://leetcode.card.workers.dev/Demo-Contributer?theme=dark&font=baloo&extension=activity" alt="LeetCode Stats" />
 ```
-
 <br>
 
 ---
