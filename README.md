@@ -1,7 +1,7 @@
 <h1 align="center"> ReadmeDesignKit </h1>
 
-
-<h3>Contribution Graph 1 </h3> 
+<h3>
+ Contribution Graph 1 </h3> 
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=IU-Studies&theme=react-dark&hide_border=false">
 
 ```bash
@@ -245,10 +245,10 @@
 
 <h3>Top Contributed Repo </h3> 
 
- ![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
  
 ```bash
-![](https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
 ```
 
 <br>
