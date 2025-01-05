@@ -541,6 +541,17 @@
 ---
 
 
+<h3>Blue Pink Line</h3> 
+<img src="https://github.com/user-attachments/assets/2775dc8d-2ae8-4290-bdfc-fdfbafaa56c0" width="100%">
+
+```bash
+<img src="https://github.com/user-attachments/assets/2775dc8d-2ae8-4290-bdfc-fdfbafaa56c0" width="100%">
+```
+<br>
+
+---
+
+
 <h3>Wave 1</h3> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/> 
 
