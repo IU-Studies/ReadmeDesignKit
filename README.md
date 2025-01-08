@@ -267,8 +267,7 @@
 ---
 
 <h3>GitHub Trophies </h3> 
-
- <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
+<img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
  
 ```bash
 <img src="https://github-profile-trophy.vercel.app/?username=IU-Studies&theme=radical" alt="IU-Studies" />
